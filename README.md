@@ -34,5 +34,3 @@ Currently transitioning from a fraud operations role into data analytics, with a
 ---
 
 *“Curiosity, excellence, and heart — I bring them all into every dataset I touch.”*
-
--->
